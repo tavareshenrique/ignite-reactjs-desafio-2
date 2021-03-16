@@ -19,7 +19,7 @@
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
-### Fotos
+### Preview
 
 <div>
    <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-2/main/src/assets/img/previews/preview1.gif" width="400px" />
