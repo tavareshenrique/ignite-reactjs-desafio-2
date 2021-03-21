@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2A2C39">
 </p>
 
-> Segundo desafio da trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em listar filmes de uma API fake, utilizando o JSON Server.
+> Segundo desafio da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em listar filmes de uma API fake, utilizando o JSON Server.
 
 # :pushpin: Conteúdo
 
